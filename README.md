@@ -7,6 +7,7 @@ Please note that using tools or methods to gain followers on TikTok instantly ma
 <h1>Bitcoin Wallet: 13MEq6AABjuzHZEprcRWDckS1PijxYNrPN</h1>
 
 <h2>Use</h2>
+<h3>git clone https://github.com/pitekkate/TiktokFollowers </h3>h3>
 <h3>pip install -r requeriments.txt</h2>
 <h3>python Tiktokfollow.py</h2>
 
